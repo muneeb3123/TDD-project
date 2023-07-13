@@ -16,4 +16,12 @@ RSpec.describe Solver do
   it 'it should raise exception if num is negative' do
     expect { subject.factorial(-3) }.to raise_error('Factorial is not defined for negative numbers')
   end
+  
+  describe '#reverse' do
+  it ' takes one argument, a string word, and returns word reversed' do
+    expect(subject.reverse('hello')).to eq('olleh')
+    expect(subject.reverse('world')).to eq('dlrow')
+    expect(subject.reverse('ruby')).to eq('ybur')
+  end
+end
 end
