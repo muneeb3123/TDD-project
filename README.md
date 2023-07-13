@@ -121,6 +121,12 @@ Not available at the moment.
 - GitHub: [@CarlosIgreda](https://github.com/CarlosIgreda)
 - Twitter: [@carlosigreda](https://twitter.com/carlosigreda)
 - LinkedIn: [@carlosigreda](https://www.linkedin.com/in/carlosigreda/)
+  
+👤 **Javed Shahbaz**
+
+- GitHub: [@Javed-Shahbaz](https://github.com/Javed-Shahbaz)
+- Twitter: [@javedshahbaz007](https://twitter.com/javedshahbaz007)
+- LinkedIn: [@javedshahbaz](https://www.linkedin.com/in/javedshahbaz/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
