@@ -24,4 +24,21 @@ RSpec.describe Solver do
       expect(subject.reverse('ruby')).to eq('ybur')
     end
   end
+
+  describe '#fizzbuzz' do
+    it 'returns "fizzbuzz" when N is divisible by both 3 and 5' do
+      expect(subject.fizzbuzz(15)).to eql('fizzbuzz')
+      expect(subject.fizzbuzz(30)).to eql('fizzbuzz')
+    end
+
+    it 'returns "fizz" when N is divisible by 3' do
+      expect(subject.fizzbuzz(6)).to eql('fizz')
+      expect(subject.fizzbuzz(9)).to eql('fizz')
+    end
+
+    it 'returns "buzz" when N is divisible by 5' do
+      expect(subject.fizzbuzz(10)).to eql('buzz')
+      expect(subject.fizzbuzz(20)).to eql('buzz')
+    end
+  end
 end
