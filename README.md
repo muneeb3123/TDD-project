@@ -112,6 +112,12 @@ Not available at the moment.
 - Twitter: [@Hafizabd4](https://twitter.com/Hafizabd4)
 - LinkedIn: (https://www.linkedin.com/in/muneeb-rehman-01b6bb193/)
 
+👤 **Carlos Igreda**
+
+- GitHub: [@CarlosIgreda](https://github.com/CarlosIgreda)
+- Twitter: [@carlosigreda](https://twitter.com/carlosigreda)
+- LinkedIn: [@carlosigreda](https://www.linkedin.com/in/carlosigreda/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
