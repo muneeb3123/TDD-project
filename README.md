@@ -24,9 +24,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [ Library Books ] <a name="about-project"></a>
+# 📖 [ TDD Setup ] <a name="about-project"></a>
 
-> The Library Books Project is an application that has been created to replicate the functions of a physical library within the OOP University environment. This app has been specifically designed to incorporate the principles of Object-Oriented Programming (OOP) in order to develop a robust system that effectively encompasses essential library procedures
+>The TDD Setup project focuses on implementing the Test-Driven Development (TDD) methodology. The goal of this project is to create a class with multiple methods, following the TDD approach, which emphasizes writing tests before writing the actual code.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -42,9 +42,13 @@
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-- **Enroll new students or teachers..**
-- **Manage the library's book collection.**
-- **TMonitor borrowing history and timestamps of books.**
+- **Factorial Calculation: The Solver class provides a method for calculating the factorial of a given integer. It handles special cases, such as 0 and negative numbers.**
+
+- **String Reversal: The Solver class includes a method to reverse a given string.**
+
+- **FizzBuzz Game: The Solver class implements the FizzBuzz game rules, returning different values based on the input number's divisibility by 3 and 5.**
+
+- **Test-Driven Development (TDD): The project follows TDD principles, with tests written before the implementation code using RSpec framework.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -66,7 +70,7 @@ In order to run this project you need:
 
 ```sh
   cd my-folder
-  git clone https://github.com/muneeb3123/library-books.git
+  git clone https://github.com/muneeb3123/TDD-project.git
 ```
 
 ### Install
@@ -82,7 +86,7 @@ bundle install
 To run the project, navigate to the project directory and execute the following command:
 
 ```sh
-  ruby main.rb
+  ruby solver.rb
 ```
 
 ### Run tests
@@ -91,7 +95,7 @@ To run tests, run the following command:
 
 Run the following command
 ```sh
-rubocop .
+respec spec
 ```
 
 ### Deployment
@@ -118,15 +122,21 @@ Not available at the moment.
 - Twitter: [@carlosigreda](https://twitter.com/carlosigreda)
 - LinkedIn: [@carlosigreda](https://www.linkedin.com/in/carlosigreda/)
 
+👤 **Javed Shahbaz**
+
+- GitHub: [@Javed-Shahbaz](https://github.com/Javed-Shahbaz)
+- Twitter: [@javedshahbaz007](https://twitter.com/javedshahbaz007)
+- LinkedIn: [@javedshahbaz](https://www.linkedin.com/in/javedshahbaz/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Fine Calculation: Develop a functionality to calculate and manage fines for late book returns.]**
-- [ ] **[Integrate a recommendation system that suggests relevant books based on the user's borrowing history and interests.]**
-- [ ] **[Enable users to share book reviews, ratings, and recommendations within the library community.]**
+- [ ] **[Error Handling and Validation: Implement robust error handling to handle unexpected input and validate user inputs, ensuring the Solver class operates reliably and gracefully handles edge cases.]**
+- [ ] **[Additional Mathematical Operations: Expand the Solver class by incorporating more mathematical operations like calculating square roots or finding prime numbers, offering a wider range of mathematical functionalities.]**
+- [ ] **[String Manipulation Methods: Enhance the Solver class with additional string manipulation methods such as checking for palindromes or extracting substrings based on patterns, allowing for more versatile string operations.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
